@@ -1,24 +1,6 @@
 # CHANGELOG
 
-## [1.0.3] - 2022/06/21
-
-### Added
-
-- [x] Turn Off GitHub Workflows
-
-## [1.0.2] - 2022/06/17
-
-### Added
-
-- [x] Refactor Table
-
-## [1.0.1] - 2021/09/23
-
-### Added
-
-- [x] Commit `src/`
-
-## [1.0.0] - 2021/09/22
+## [1.0.0] - 2022/07/14
 
 ### Added
 

@@ -1,5 +1,5 @@
-# GitHub Action for PHP Template Helper & Libraries by HungNG
-name: Testing PHP Template Helper & Libraries by HungNG
+# GitHub Action for PHP Console Helper & Libraries by HungNG
+name: Testing PHP Console Helper & Libraries by HungNG
 on: [ push, pull_request ]
 jobs:
     build:
