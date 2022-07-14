@@ -2,7 +2,7 @@
 
 # Console
 
-Console helper, library - Basic, Simple and Lightweight
+Console Helper, Library - Basic, Simple and Lightweight
 
 ## Contact & Support
 
