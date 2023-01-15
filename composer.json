@@ -1,7 +1,7 @@
 {
     "type": "library",
     "name": "nguyenanhung/console",
-    "description": "Template for repository helper, library - Basic, Simple and Lightweight",
+    "description": "PHP Console Package - Basic, Simple and Lightweight",
     "keywords": [
         "console",
         "helper",
