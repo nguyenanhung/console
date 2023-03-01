@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.2] - 2023/03/01
+
+### Added
+
+- [x] Update Composer Vendor Packages
+
 ## [1.0.1] - 2023/01/15
 
 ### Added
