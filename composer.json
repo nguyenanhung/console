@@ -25,7 +25,7 @@
         "ext-curl": "*",
         "ext-mbstring": "*",
         "php-di/php-di": "^5.4",
-        "mnapoli/silly": "^1.8",
+        "mnapoli/silly": "^1.9",
         "mnapoli/silly-php-di": "^1.2"
     },
     "require-dev": {
