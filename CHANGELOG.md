@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.3 - 1.0.6] - 2024/03/01
+
+### Added
+
+- [x] Upgrade `mnapoli/silly` use PHP version `^1.9`
+- [x] Added `nguyenanhung\Console\Application\PhpDiApplication`
+
 ## [1.0.2] - 2023/03/01
 
 ### Added
