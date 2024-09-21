@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/console/v)](https://packagist.org/packages/nguyenanhung/console) [![Total Downloads](http://poser.pugx.org/nguyenanhung/console/downloads)](https://packagist.org/packages/nguyenanhung/console) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/console/v/unstable)](https://packagist.org/packages/nguyenanhung/console) [![License](http://poser.pugx.org/nguyenanhung/console/license)](https://packagist.org/packages/nguyenanhung/console) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/console/require/php)](https://packagist.org/packages/nguyenanhung/console)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/console.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/console)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/console.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/console)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/console.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/console)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/console.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/console)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/console.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/console)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/console/php)](https://packagist.org/packages/nguyenanhung/console)
 
 # Console
 
